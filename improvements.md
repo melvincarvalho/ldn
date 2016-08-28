@@ -20,6 +20,7 @@ Discovering an Inbox with a HEAD request.
 `
 
 Remove this example
+```
 
 ```
 {
