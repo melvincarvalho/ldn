@@ -1,6 +1,6 @@
 # section 3.1 (Disocvery)
 
-## Imp
+## Imp -- Remove
 `
 make a HEAD request on the target URL, to check for an HTTP Link header with a rel value of http://www.w3.org/ns/ldp#inbox
 `
